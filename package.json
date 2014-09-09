@@ -1,0 +1,23 @@
+{
+  "name": "hello-node-js",
+  "version": "0.1.0",
+  "description": "",
+  "main": "task-3.js",
+  "dependencies": {
+    "moment": "^2.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhaap/hello-node-js.git"
+  },
+  "author": "jhaap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhaap/hello-node-js/issues"
+  },
+  "homepage": "https://github.com/jhaap/hello-node-js"
+}
