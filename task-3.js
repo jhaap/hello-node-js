@@ -10,7 +10,7 @@ if (timestamp !== false) {
 		(date.getMonth() + 1) + '.' +
 		date.getFullYear();
 		
-	fin += '  ' + date.getHours() + '.' +
+	fin += ' ' + date.getHours() + '.' +
 		date.getMinutes();
 		
 		console.log(fin);
